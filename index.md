@@ -1,4 +1,4 @@
-#About Study Buddy
+# About Study Buddy
 
 Study buddy is a Meteor application providing students of University of Hawaii an opportunity to list courses they have taken and for which they are willing to attempt to prove help, and also courses they are currently taking and for which they might need help in.
 
@@ -79,3 +79,10 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 ```
 meteor npm run lint
 ```
+
+# Page Modeling
+
+This page is what we'll be modeling
+
+<img src="doc/template.png">
+
