@@ -1,14 +1,12 @@
-# Find our directory on [GitHub](https://github.com/studbudd/studbudd)
-
 # Developement Progress 
 - [Our current StudBudd Web App](http://studbudd.meteorapp.com/#/)
 - [Milestone 1](https://github.com/studbudd/studbudd/projects/1) 
 - [Milestone 2](https://github.com/studbudd/studbudd/projects/2) 
 
 
-# Stud Budd Goals
+# StudBudd Goals
 
-Our Stud Budd goal is to create a Meteor application to provide students of University of Hawaii an opportunity to list courses they have taken and for which they are willing to attempt to prove help, and also courses they are currently taking and for which they might need help in.
+Our goal for StudBudd is to create a Meteor application to provide the students of  the University of Hawaii with an opportunity to list courses they have taken for which they are willing to attempt to provide help. Also courses they are currently taking for which they might need help in.
 
 # User Guide
 
