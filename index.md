@@ -2,6 +2,9 @@
 
 # [Click here](http://studbudd.meteorapp.com/#/) to visit our site
 
+# [Click here](https://github.com/studbudd/studbudd/projects/1) to view our completed Milestone 1
+# [Click here](https://github.com/studbudd/studbudd/projects/2) to visit our project board for Milestone 2
+
 
 # Stud Budd Goals
 
