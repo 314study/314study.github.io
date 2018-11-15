@@ -1,9 +1,9 @@
 # Find our directory on [GitHub](https://github.com/studbudd/studbudd)
 
-# [Click here](http://studbudd.meteorapp.com/#/) to visit our site
-
-# [Click here](https://github.com/studbudd/studbudd/projects/1) to view our completed Milestone 1
-# [Click here](https://github.com/studbudd/studbudd/projects/2) to visit our project board for Milestone 2
+# Developement Progress 
+- [Our current StudBudd Web App](http://studbudd.meteorapp.com/#/)
+- [Milestone 1](https://github.com/studbudd/studbudd/projects/1) 
+- [Milestone 2](https://github.com/studbudd/studbudd/projects/2) 
 
 
 # Stud Budd Goals
