@@ -1,6 +1,6 @@
 # Find our directory on [GitHub](https://github.com/studbudd/studbudd)
 
-# [Click here] to visit our site
+# [Click here](http://studbudd.meteorapp.com/#/) to visit our site
 
 
 # Stud Budd Goals
