@@ -1,4 +1,6 @@
-#<h2> Find our directory on [GitHub](https://www.meteor.com/install) </h2>
+# Find our directory on [GitHub](https://www.meteor.com/install)
+
+# [Click here] to visit our site
 
 
 # Stud Budd Goals
