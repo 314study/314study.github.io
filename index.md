@@ -3,7 +3,28 @@
 
 Our Study Buddy goal is to create a Meteor application to provide students of University of Hawaii an opportunity to list courses they have taken and for which they are willing to attempt to prove help, and also courses they are currently taking and for which they might need help in.
 
-# Installation
+# User Guide
+
+When you first visit the page, you will be greeted by our Landing Page!
+<img src="doc/landingpage.png">
+
+Anyone from the UHM or even outside of the university can create an account to search for help.
+
+<img src="doc/Signup.png">
+
+Once you are signed in, you can visit the Classes page, which then you can look through a list of sorted classes that tutors are offering help on.
+
+<img src="doc/classlist.png">
+
+Or if you are a student looking for help, you can look through a list of available tutors with listed subjects/classes they are proficient in, in the Tutors page.
+
+<img src="doc/tutor.png">
+
+If you are logged in as a tutor, you can look through a list of students that are in need of tutoring in the Students page.
+
+<img src="doc/student.png">
+
+# Developer Installation Guide
 
 First, [install Meteor](https://www.meteor.com/install).
 
