@@ -1,4 +1,4 @@
-# Find our directory on [GitHub](https://www.meteor.com/install)
+# Find our directory on [GitHub](https://github.com/studbudd/studbudd)
 
 # [Click here] to visit our site
 
