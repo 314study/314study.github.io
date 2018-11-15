@@ -1,7 +1,7 @@
 
-# Study Buddy Goals
+# Stud Budd Goals
 
-Our Study Buddy goal is to create a Meteor application to provide students of University of Hawaii an opportunity to list courses they have taken and for which they are willing to attempt to prove help, and also courses they are currently taking and for which they might need help in.
+Our Stud Budd goal is to create a Meteor application to provide students of University of Hawaii an opportunity to list courses they have taken and for which they are willing to attempt to prove help, and also courses they are currently taking and for which they might need help in.
 
 # User Guide
 
