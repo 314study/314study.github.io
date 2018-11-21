@@ -1,4 +1,4 @@
-<img src="doc/Studbuds - Copy3.png">
+<img src="doc/StudBudd3-transperent.png">
 
 # Developement Progress 
 - [Our current StudBudd Web App](http://studbudd.meteorapp.com/#/)
