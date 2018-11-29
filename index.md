@@ -4,6 +4,7 @@
 - [Our current StudBudd Web App](http://studbudd.meteorapp.com/#/)
 - [Milestone 1](https://github.com/studbudd/studbudd/projects/1) 
 - [Milestone 2](https://github.com/studbudd/studbudd/projects/2) 
+- [Milestone 3](https://github.com/studbudd/studbudd/projects/3) 
 
 
 # StudBudd Goals
