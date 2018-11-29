@@ -1,6 +1,6 @@
 <img src="doc/StudBudd3-transperent.png">
 
-# Developement Progress 
+# Development Progress 
 - [Our current StudBudd Web App](http://studbudd.meteorapp.com/#/)
 - [Milestone 1](https://github.com/studbudd/studbudd/projects/1) 
 - [Milestone 2](https://github.com/studbudd/studbudd/projects/2) 
@@ -13,7 +13,7 @@ Our goal for StudBudd is to create a Meteor application to provide the students 
 # User Guide
 
 When you first visit the page, you will be greeted by our Landing Page!
-<img src="doc/landingpage.png">
+<img src="doc/landingPage (2).png">
 
 Anyone from the UHM or even outside of the university can create an account to search for help.
 
