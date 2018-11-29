@@ -28,7 +28,7 @@ Or if you are a student looking for help, you can look through a list of availab
 
 <img src="doc/TutorsPage.png">
 
-If you are logged in as a tutor, you can look through a list of students that are in need of tutoring in the Students page.
+If you are logged in as a tutor or student, you can look through a list of students that need help in certain subjects in the Students page. As a tutor, you can see who needs help. As a student, you can see other students who need help in the same subject so group study sessions can be planned. 
 
 <img src="doc/studentsPage.png">
 
