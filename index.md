@@ -17,7 +17,7 @@ When you first visit the page, you will be greeted by our Landing Page!
 
 Anyone from the UHM or even outside of the university can create an account to search for help.
 
-<img src="doc/Signup.png">
+<img src="doc/register.png">
 
 Once you are signed in, you can visit the Classes page, which then you can look through a list of sorted classes that tutors are offering help on.
 
