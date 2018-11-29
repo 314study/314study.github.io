@@ -34,8 +34,11 @@ If you are logged in as a tutor or student, you can look through a list of stude
 
 # Development history
 - Milestone 1
-
+-- Landing page
+-- Mockup pages for classes, tutors, and admin functions
 - Milestone 2
+-- Mentor and student collections
+-- Added functionallity to mockup pages: tutors, classes, and student listings
 
 # Developer Installation Guide
 
