@@ -29,7 +29,7 @@ Or if you are a student looking for help, you can look through a list of availab
 
 If you are logged in as a tutor, you can look through a list of students that are in need of tutoring in the Students page.
 
-<img src="doc/student.png">
+<img src="doc/studentsPage.png">
 
 # Developer Installation Guide
 
