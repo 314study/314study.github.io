@@ -14,23 +14,23 @@ Our goal for StudBudd is to create a Meteor application to provide the students 
 # User Guide
 
 When you first visit the page, you will be greeted by our Landing Page!
-<img src="doc/landingPage (2).png">
+<img src="doc/LPupdated.png">
 
 Anyone from the UHM or even outside of the university can create an account to search for help.
 
-<img src="doc/register.png">
+<img src="doc/registerPage.png">
 
 Once you are signed in, you can visit the Classes page, which then you can look through a list of sorted classes that tutors are offering help on.
 
-<img src="doc/clasList.png">
+<img src="doc/classesAvailable.png">
 
 Or if you are a student looking for help, you can look through a list of available tutors with listed subjects/classes they are proficient in, in the Tutors page.
 
-<img src="doc/TutorsPage.png">
+<img src="doc/tutorsAvailable.png">
 
 If you are logged in as a tutor or student, you can look through a list of students that need help in certain subjects in the Students page. As a tutor, you can see who needs help. As a student, you can see other students who need help in the same subject so group study sessions can be planned. 
 
-<img src="doc/studentsPage.png">
+<img src="doc/studentsList.png">
 
 # Developer Installation Guide
 
