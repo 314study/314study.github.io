@@ -32,6 +32,11 @@ If you are logged in as a tutor or student, you can look through a list of stude
 
 <img src="doc/studentsList.png">
 
+# Development history
+- Milestone 1
+
+- Milestone 2
+
 # Developer Installation Guide
 
 First, [install Meteor](https://www.meteor.com/install).
