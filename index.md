@@ -21,11 +21,11 @@ Anyone from the UHM or even outside of the university can create an account to s
 
 Once you are signed in, you can visit the Classes page, which then you can look through a list of sorted classes that tutors are offering help on.
 
-<img src="doc/classesListPage.png">
+<img src="doc/classList.png">
 
 Or if you are a student looking for help, you can look through a list of available tutors with listed subjects/classes they are proficient in, in the Tutors page.
 
-<img src="doc/tutorsPage.png">
+<img src="doc/TutorsPage.png">
 
 If you are logged in as a tutor, you can look through a list of students that are in need of tutoring in the Students page.
 
