@@ -39,6 +39,11 @@ If you are logged in as a tutor or student, you can look through a list of stude
 - Milestone 2
 + Mentor and student collections
 + Added functionallity to mockup pages: tutors, classes, and student listings
+- Milestone 3
++ Added Calendar function
++ Added Edit function to mentor, student and calendars
++ Added filter function to classes page 
++ Improve asthetics
 
 # Developer Installation Guide
 
