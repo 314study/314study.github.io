@@ -37,6 +37,7 @@ UH alumni,Brandon Chun, said to change the title for visibility and edit the men
 
 'The pages that have a darker background are easier on the eye but the landing page picture could be better." - Sean Brown, UH alumni 
 'It looks like a great way to connect with peers and get help with classes that may be particularly tough.' -Kahlin, UH student 
+'Neat and organized, but the heading is a little hard to read.' -Kailey, UH student 
 
 
 
