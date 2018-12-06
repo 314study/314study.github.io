@@ -20,15 +20,15 @@ Anyone from the UHM or even outside of the university can create an account to s
 
 <img src="doc/MS3-SIGNUP.png">
 
-Once you are signed in, you can visit the Classes page, which then you can look through a list of sorted classes that tutors are offering help on.
+Once you are signed in, you can visit the Classes page. You will be greeted by an empty page with a list of classes on the left. Clicking on a class will display a list of mentors that are proficient in that class.
 
 <img src="doc/MS3-CLASS.png">
 
-Or if you are a student looking for help, you can look through a list of available tutors with listed subjects/classes they are proficient in, in the Tutors page.
+You can also visit the mentors page, in which you will be greeted with a full list of all of the available mentors and the subjects they are offering mentoring in. 
 
 <img src="doc/MS3-MENTOR.png">
 
-If you are logged in as a tutor or student, you can look through a list of students that need help in certain subjects in the Students page. As a tutor, you can see who needs help. As a student, you can see other students who need help in the same subject so group study sessions can be planned. 
+If you are logged in as a mentor or student, Visiting the students page will display all the students and the subjects they are looking for help in. When a student is clicked, you will be redirected to their profile. From there, as a mentor you can offer help. As a student, you can plan group study sessions that student if you need help in the same subject.
 
 <img src="doc/MS3-STUDENT.png">
 
