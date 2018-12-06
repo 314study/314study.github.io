@@ -32,6 +32,9 @@ If you are logged in as a tutor or student, you can look through a list of stude
 
 <img src="doc/studentsList.png">
 
+# Community Feedback
+" It was da bom" -JLIEL 
+
 # Development history
 - Milestone 1
 + Landing page
