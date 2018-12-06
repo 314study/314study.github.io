@@ -45,10 +45,10 @@ UH alumni,Brandon Chun, said to change the title for visibility and edit the men
 
 
 # Development history
-<img class="ui medium right floated rounded image" src="doc/landingpage.png">
 - Milestone 1
 + Landing page
 + Mockup pages for classes, tutors, and admin functions
+<img class="ui small right floated rounded image" src="doc/landingpage.png">
 - Milestone 2
 + Mentor and student collections
 + Added functionallity to mockup pages: tutors, classes, and student listings
