@@ -36,7 +36,9 @@ If you are logged in as a tutor or student, you can look through a list of stude
 UH alumni,Brandon Chun, said to change the title for visibility and edit the mentor card so the so information is more clear, and to range our pages. He also was not thrilled with the name 'StudBudd' and recommended 'StudMuffin'. Other comments,from another former UH student, focused on the aesthetics of the cite, and a few concerns about functionality. 
 
 "The pages that have a darker background are easier on the eye but the landing page picture could be better." - Sean Brown, UH alumni 
+
 "It looks like a great way to connect with peers and get help with classes that may be particularly tough." -Kahlin, UH student 
+
 "Neat and organized, but the heading is a little hard to read." -Kailey, UH student 
 
 
