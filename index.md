@@ -52,7 +52,7 @@ UH alumni,Brandon Chun, said to change the title for visibility and edit the men
 - Milestone 2
 + Mentor and student collections
 + Added functionallity to mockup pages: tutors, classes, and student listings
-<img class="ui medium rounded image" src="doc/LPupdated.png"><img class="ui medium rounded image" src="doc/registerPage.png"><img class="ui medium rounded image" src="doc/classesAvailable.png"><img class="ui medium rounded image" src="doc/tutorsAvailable.png"><img class="ui medium rounded image" src="doc/studentsList.png">
+<img class="ui small rounded image" src="doc/LPupdated.png"><img class="ui small rounded image" src="doc/registerPage.png"><img class="ui small rounded image" src="doc/classesAvailable.png"><img class="ui small rounded image" src="doc/tutorsAvailable.png"><img class="ui small rounded image" src="doc/studentsList.png">
 - Milestone 3
 + Added Calendar function
 + Added Edit function to mentor, student and calendars
