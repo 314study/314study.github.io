@@ -14,23 +14,23 @@ Our goal for StudBudd is to create a Meteor application to provide the students 
 # User Guide
 
 When you first visit the page, you will be greeted by our Landing Page!
-<img src="doc/LPupdated.png">
+<img src="doc/MS3-LP.png">
 
 Anyone from the UHM or even outside of the university can create an account to search for help.
 
-<img src="doc/registerPage.png">
+<img src="doc/MS3-SIGNUP.png">
 
 Once you are signed in, you can visit the Classes page, which then you can look through a list of sorted classes that tutors are offering help on.
 
-<img src="doc/classesAvailable.png">
+<img src="doc/MS3-CLASS.png">
 
 Or if you are a student looking for help, you can look through a list of available tutors with listed subjects/classes they are proficient in, in the Tutors page.
 
-<img src="doc/tutorsAvailable.png">
+<img src="doc/MS3-MENTOR.png">
 
 If you are logged in as a tutor or student, you can look through a list of students that need help in certain subjects in the Students page. As a tutor, you can see who needs help. As a student, you can see other students who need help in the same subject so group study sessions can be planned. 
 
-<img src="doc/studentsList.png">
+<img src="doc/MS3-STUDENT.png">
 
 # Community Feedback
 UH alumni,Brandon Chun, said to change the title for visibility and edit the mentor card so the so information is more clear, and to range our pages. He also was not thrilled with the name 'StudBudd' and recommended 'StudMuffin'. Other comments,from another former UH student, focused on the aesthetics of the cite, and a few concerns about functionality. 
